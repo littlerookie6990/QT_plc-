@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/tupian/light_close.png</file>
+        <file>qrc/tupian/light_open.png</file>
+        <file>qrc/tupian/大用户.png</file>
+    </qresource>
+</RCC>

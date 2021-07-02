@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/z">
+        <file>home.png</file>
+        <file>logo.jpg</file>
+        <file>auto.png</file>
+        <file>hand.png</file>
+        <file>monitor.png</file>
+        <file>set.png</file>
+        <file>warning.png</file>
+        <file>com.png</file>
+        <file>mainwindow.png</file>
+        <file>home1.png</file>
+        <file>off.png</file>
+        <file>mo.png</file>
+        <file>offred.png</file>
+        <file>dianji1.png</file>
+        <file>qitong.png</file>
+        <file>stop1.png</file>
+        <file>aa.jpg</file>
+        <file>back.jpg</file>
+        <file>back3.jpg</file>
+        <file>clear.png</file>
+        <file>copy1.png</file>
+        <file>press.png</file>
+        <file>qibeng.png</file>
+        <file>sensor.png</file>
+        <file>speed.png</file>
+        <file>start.png</file>
+        <file>test.png</file>
+        <file>camera.png</file>
+        <file>communication.png</file>
+        <file>write.png</file>
+        <file>auto1.png</file>
+        <file>down.png</file>
+        <file>up.png</file>
+        <file>link.png</file>
+        <file>link1.png</file>
+        <file>update.png</file>
+    </qresource>
+</RCC>
